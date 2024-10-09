@@ -17,8 +17,8 @@ This project utilizes the Langchain framework and OpenAI's GPT-3.5 Turbo model t
   - `langchain`
   - `langchain-openai`
   - `langchain-community`
-  - `python-dotenv` (for loading environment variables)
-  - `huggingface_hub` (if using HuggingFace embeddings)
+  - `python-dotenv` 
+  - `huggingface_hub` 
 
 You can install the required packages using pip:
 
